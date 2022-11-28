@@ -1,0 +1,32 @@
+{
+  "id": "823e3a56-65a8-482c-b282-dbd4ea2afdb2",
+  "name": "52PowerBI MonthEnd",
+  "publisher": "Fiftytwo A/S",
+  "brief": "52PowerBI MonthEnd",
+  "description": "52PowerBI MonthEnd 1.0.0.1",
+  "version": "1.0.0.1",
+  "privacyStatement": "https://www.fiftytwo.com/da/privatlivspolitik",
+  "EULA": "https://www.fiftytwo.com/52PowerBiCore/EULA",
+  "help": "https://www.fiftytwo.com/52PowerBiCore/Help",
+  "url": "http://www.fiftytwo.com",
+  "logo": "image/logo.png",
+  "dependencies": [ 
+    {
+      "appId": "a513d7f2-3295-4505-b978-56135797c4d1",
+      "name": "52PowerBI Core",
+      "publisher": "Fiftytwo A/S",
+      "version": "1.0.0.0"
+    }
+  ],  
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
+  "target": "Cloud",
+  "idRange": {"from": 6042300,"to": 6042399},
+  "contextSensitiveHelpUrl": "https://fiftytwo.com",
+  "showMyCode": true,
+  "runtime": "8.0",
+  "features": [
+    "TranslationFile"
+  ]
+}
